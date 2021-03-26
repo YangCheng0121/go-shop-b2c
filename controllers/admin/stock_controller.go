@@ -1,11 +1,11 @@
 package admin
 
 import (
-	"bee-shop-b2c/common/http"
-	stockHelper "bee-shop-b2c/common/stock"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
+	"go-shop-b2c/common/http"
+	stockHelper "go-shop-b2c/common/stock"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"strconv"
 	"strings"
 )

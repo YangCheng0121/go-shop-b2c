@@ -12,8 +12,8 @@ import (
 )
 
 type SConfig struct {
-	XMLName xml.Name  `xml:"bee-shop-b2c"` // 指定最外层的标签为config
-	Setting []Setting `xml:"setting"`      // 读取smtpServer配置项，并将结果保存到SmtpServer变量中
+	XMLName xml.Name  `xml:"go-shop-b2c"` // 指定最外层的标签为config
+	Setting []Setting `xml:"setting"`     // 读取smtpServer配置项，并将结果保存到SmtpServer变量中
 }
 
 type Setting struct {

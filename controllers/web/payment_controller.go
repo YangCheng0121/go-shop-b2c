@@ -1,16 +1,16 @@
 package web
 
 import (
-	"bee-shop-b2c/common/http"
-	orderHelper "bee-shop-b2c/common/order"
-	paymentHelper "bee-shop-b2c/common/payment"
-	snHelper "bee-shop-b2c/common/sn"
-	"bee-shop-b2c/common/weixin"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/models"
-	"bee-shop-b2c/setting"
 	wechatPayNotify "github.com/silenceper/wechat/v2/pay/notify"
 	wechatPayOrder "github.com/silenceper/wechat/v2/pay/order"
+	"go-shop-b2c/common/http"
+	orderHelper "go-shop-b2c/common/order"
+	paymentHelper "go-shop-b2c/common/payment"
+	snHelper "go-shop-b2c/common/sn"
+	"go-shop-b2c/common/weixin"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/models"
+	"go-shop-b2c/setting"
 	"strconv"
 )
 

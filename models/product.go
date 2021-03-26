@@ -1,9 +1,9 @@
 package models
 
 import (
-	"bee-shop-b2c/helpers"
 	"errors"
 	"fmt"
+	"go-shop-b2c/helpers"
 	"reflect"
 	"strings"
 	"time"

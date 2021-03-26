@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bee-shop-b2c>
+<go-shop-b2c>
 	<setting name="siteName">媛梦佳人美容院</setting>
 	<setting name="siteUrl">http://test.sonyo.com/</setting>
 	<setting name="logo">/upload/image/logo.png</setting>
@@ -63,4 +63,4 @@
 	<setting name="kuaidi100Customer"></setting>
 	<setting name="smsAppId"></setting>
 	<setting name="smsSecretKey"></setting>
-</bee-shop-b2c>
+</go-shop-b2c>

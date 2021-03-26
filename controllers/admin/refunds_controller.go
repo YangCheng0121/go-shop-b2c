@@ -1,16 +1,16 @@
 package admin
 
 import (
-	"bee-shop-b2c/common"
-	"bee-shop-b2c/common/http"
-	orderHelper "bee-shop-b2c/common/order"
-	paymentHelper "bee-shop-b2c/common/payment"
-	refundHelper "bee-shop-b2c/common/refund"
-	"bee-shop-b2c/common/weixin"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
 	wechatPayRefund "github.com/silenceper/wechat/v2/pay/refund"
+	"go-shop-b2c/common"
+	"go-shop-b2c/common/http"
+	orderHelper "go-shop-b2c/common/order"
+	paymentHelper "go-shop-b2c/common/payment"
+	refundHelper "go-shop-b2c/common/refund"
+	"go-shop-b2c/common/weixin"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"strconv"
 	"strings"
 )

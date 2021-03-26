@@ -1,9 +1,9 @@
 package web
 
 import (
-	productHelper "bee-shop-b2c/common/product"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
+	productHelper "go-shop-b2c/common/product"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"regexp"
 	"strconv"
 

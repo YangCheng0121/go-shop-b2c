@@ -1,9 +1,9 @@
 package web
 
 import (
-	"bee-shop-b2c/common/http"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
+	"go-shop-b2c/common/http"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"strings"
 )
 

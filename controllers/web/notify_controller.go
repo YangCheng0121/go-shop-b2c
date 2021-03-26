@@ -1,8 +1,8 @@
 package web
 
 import (
-	"bee-shop-b2c/common/weixin"
 	"encoding/xml"
+	"go-shop-b2c/common/weixin"
 	"io/ioutil"
 
 	"github.com/astaxie/beego/logs"

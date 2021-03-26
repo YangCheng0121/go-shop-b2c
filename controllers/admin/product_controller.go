@@ -1,15 +1,15 @@
 package admin
 
 import (
-	"bee-shop-b2c/common/http"
-	productHelper "bee-shop-b2c/common/product"
-	snHelper "bee-shop-b2c/common/sn"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
 	"encoding/json"
 	"github.com/astaxie/beego/utils"
 	uuid "github.com/satori/go.uuid"
+	"go-shop-b2c/common/http"
+	productHelper "go-shop-b2c/common/product"
+	snHelper "go-shop-b2c/common/sn"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"strconv"
 	"strings"
 )

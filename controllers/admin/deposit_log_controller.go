@@ -1,12 +1,12 @@
 package admin
 
 import (
-	depositHelper "bee-shop-b2c/common/deposit_log"
-	"bee-shop-b2c/common/http"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
 	"encoding/json"
+	depositHelper "go-shop-b2c/common/deposit_log"
+	"go-shop-b2c/common/http"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"strconv"
 	"strings"
 )

@@ -1,8 +1,8 @@
 package tests
 
 import (
-	"bee-shop-b2c/helpers"
 	"fmt"
+	"go-shop-b2c/helpers"
 	"testing"
 )
 

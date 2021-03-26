@@ -1,9 +1,9 @@
 package admin
 
 import (
-	"bee-shop-b2c/common/http"
-	"bee-shop-b2c/setting"
 	"encoding/json"
+	"go-shop-b2c/common/http"
+	"go-shop-b2c/setting"
 )
 
 type SettingController struct {

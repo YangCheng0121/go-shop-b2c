@@ -1,11 +1,11 @@
 package admin
 
 import (
-	"bee-shop-b2c/common"
-	"bee-shop-b2c/common/http"
-	"bee-shop-b2c/models"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
+	"go-shop-b2c/common"
+	"go-shop-b2c/common/http"
+	"go-shop-b2c/models"
 )
 
 type JsonController struct {

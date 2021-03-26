@@ -1,15 +1,15 @@
 package admin
 
 import (
-	"bee-shop-b2c/common/http"
-	orderHelper "bee-shop-b2c/common/order"
-	orderLogHelper "bee-shop-b2c/common/order_log"
-	paymentHelper "bee-shop-b2c/common/payment"
-	snHelper "bee-shop-b2c/common/sn"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
 	"encoding/json"
+	"go-shop-b2c/common/http"
+	orderHelper "go-shop-b2c/common/order"
+	orderLogHelper "go-shop-b2c/common/order_log"
+	paymentHelper "go-shop-b2c/common/payment"
+	snHelper "go-shop-b2c/common/sn"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"strconv"
 	"strings"
 )

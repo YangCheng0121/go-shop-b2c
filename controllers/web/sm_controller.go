@@ -1,9 +1,9 @@
 package web
 
 import (
-	"bee-shop-b2c/common/http"
-	"bee-shop-b2c/models"
 	"fmt"
+	"go-shop-b2c/common/http"
+	"go-shop-b2c/models"
 	"math/rand"
 	"time"
 )

@@ -1,13 +1,13 @@
 package admin
 
 import (
-	"bee-shop-b2c/common/http"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/setting"
 	"fmt"
 	"github.com/astaxie/beego"
 	"github.com/nfnt/resize"
 	uuid "github.com/satori/go.uuid"
+	"go-shop-b2c/common/http"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/setting"
 	"image"
 	"image/gif"
 	"image/jpeg"

@@ -8,7 +8,7 @@ import (
 )
 
 type SConfig struct {
-	XMLName xml.Name  `xml:"bee-shop-b2c"` // 指定最外层的标签为bee-shop-b2c
+	XMLName xml.Name  `xml:"go-shop-b2c"` // 指定最外层的标签为go-shop-b2c
 	Setting []Setting `xml:"setting"`
 }
 

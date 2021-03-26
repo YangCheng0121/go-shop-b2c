@@ -1,10 +1,10 @@
 package web
 
 import (
-	"bee-shop-b2c/common/http"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/models"
-	"bee-shop-b2c/setting"
+	"go-shop-b2c/common/http"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/models"
+	"go-shop-b2c/setting"
 	"strconv"
 	"strings"
 )

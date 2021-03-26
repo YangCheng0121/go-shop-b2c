@@ -8,9 +8,9 @@
 package routers
 
 import (
-	"bee-shop-b2c/controllers/admin"
-	"bee-shop-b2c/controllers/web"
 	"github.com/astaxie/beego"
+	"go-shop-b2c/controllers/admin"
+	"go-shop-b2c/controllers/web"
 )
 
 func init() {

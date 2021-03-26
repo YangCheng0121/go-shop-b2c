@@ -1,12 +1,12 @@
 package admin
 
 import (
-	"bee-shop-b2c/common/http"
-	messageConfigHelper "bee-shop-b2c/common/message_config"
-	"bee-shop-b2c/helpers"
-	"bee-shop-b2c/model_views"
-	"bee-shop-b2c/models"
 	"encoding/json"
+	"go-shop-b2c/common/http"
+	messageConfigHelper "go-shop-b2c/common/message_config"
+	"go-shop-b2c/helpers"
+	"go-shop-b2c/model_views"
+	"go-shop-b2c/models"
 	"strconv"
 	"strings"
 )

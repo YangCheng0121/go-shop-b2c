@@ -1,13 +1,13 @@
 package tests
 
 import (
-	"bee-shop-b2c/helpers"
 	"crypto/hmac"
 	"crypto/md5"
 	"crypto/sha1"
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
+	"go-shop-b2c/helpers"
 	"strconv"
 	"testing"
 )

@@ -1,7 +1,6 @@
 package weixin
 
 import (
-	"bee-shop-b2c/common/redis"
 	"github.com/silenceper/wechat/v2"
 	"github.com/silenceper/wechat/v2/officialaccount"
 	wechatOfficialConfig "github.com/silenceper/wechat/v2/officialaccount/config"
@@ -9,6 +8,7 @@ import (
 	wechatPayConfig "github.com/silenceper/wechat/v2/pay/config"
 	"github.com/silenceper/wechat/v2/pay/notify"
 	"github.com/silenceper/wechat/v2/pay/refund"
+	"go-shop-b2c/common/redis"
 	"strconv"
 )
 

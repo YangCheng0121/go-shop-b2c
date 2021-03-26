@@ -1,10 +1,10 @@
 package sysinit
 
 import (
-	"bee-shop-b2c/models"
 	"encoding/gob"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
+	"go-shop-b2c/models"
 )
 
 func sysInit() {

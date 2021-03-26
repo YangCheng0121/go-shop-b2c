@@ -1,9 +1,9 @@
 package main
 
 import (
-	_ "bee-shop-b2c/routers"
-	_ "bee-shop-b2c/sysinit"
 	"github.com/astaxie/beego"
+	_ "go-shop-b2c/routers"
+	_ "go-shop-b2c/sysinit"
 )
 
 func main() {
