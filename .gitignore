@@ -14,3 +14,4 @@ go-shop-b2c.tar.gz
 /routers/commentsRouter____src_go-shop-b2c_controllers_admin.go
 /routers/commentsRouter____src_go-shop-b2c_controllers_web.go
 *.log
+/conf/app_pro.conf
