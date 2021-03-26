@@ -1,0 +1,16 @@
+.idea
+bee-shop-b2c
+bee-shop-b2c.exe
+routers/commentsRouter_api.go
+routers/commentsRouter_controllers.go
+routers/commentsRouter__________Desktop_Go_src_cleverbamboo_com_bee-shop-b2c_api.go
+routers/commentsRouter__________Desktop_Go_src_cleverbamboo_com_bee-shop-b2c_controllers.go
+routers/commentsRouter___________________Users_cleverbamboo_GoProjects_src_cleverbamboo_com_bee-shop-b2c_api.go
+routers/commentsRouter___________________Users_cleverbamboo_GoProjects_src_cleverbamboo_com_bee-shop-b2c_controllers.go
+static/
+lastupdate.tmp
+*.tmp
+bee-shop-b2c.tar.gz
+/routers/commentsRouter____src_bee-shop-b2c_controllers_admin.go
+/routers/commentsRouter____src_bee-shop-b2c_controllers_web.go
+*.log
