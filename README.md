@@ -58,5 +58,5 @@ PS: 注意实现要先搭建MySQL、Redis，MySQL要初始化 go-shop-b2c.sql
 <a href="https://z3.ax1x.com/2021/03/29/c9sBCD.png"><img src="https://z3.ax1x.com/2021/03/29/c9sBCD.png" alt="c9sBCD.png" border="0"></a>
 <a href="https://z3.ax1x.com/2021/03/29/c9sw4O.png"><img src="https://z3.ax1x.com/2021/03/29/c9sw4O.png" alt="c9sw4O.png" border="0"></a>
 
-## 公众号
-![公众号](https://z3.ax1x.com/2021/03/29/c9sEcj.jpg)
+## 欢迎关注公众号
+<a href="https://z3.ax1x.com/2021/03/29/c9sEcj.jpg"><img src="https://z3.ax1x.com/2021/03/29/c9sEcj.jpg" alt="c9sw4O.png" border="0"></a>
