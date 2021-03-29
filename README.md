@@ -7,8 +7,8 @@
 * [Vue 文档](https://cn.vuejs.org/index.html)
 
 ## 演示项目地址
-* <a href="http://106.54.82.67/go-shop-web/?#/" target="_blank">移动Web端</a>
-* <a href="http://106.54.82.67/go-shop-admin/#/user/login" target="_blank">管理中心</a>  
+* [移动Web端](http://106.54.82.67/go-shop-web/?#/)
+* [管理中心](http://106.54.82.67/go-shop-admin/#/user/login)
 
 ## 目录结构
 * common
