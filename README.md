@@ -55,8 +55,8 @@ PS: 注意实现要先搭建MySQL、Redis，MySQL要初始化 go-shop-b2c.sql
 <a href="https://z3.ax1x.com/2021/03/29/c9w2Mq.png" style="display:inline-blcok;width:300px;height:300px"><img src="https://z3.ax1x.com/2021/03/29/c9w2Mq.png" alt="c9w2Mq.png" border="0"></a>
 
 ### 管理端
-<a href="https://z3.ax1x.com/2021/03/29/c9rT76.md.png"><img src="https://z3.ax1x.com/2021/03/29/c9rT76.md.png" alt="c9rT76.md.png" border="0"></a>
-<a href="https://z3.ax1x.com/2021/03/29/c9rHAK.md.png"><img src="https://z3.ax1x.com/2021/03/29/c9rHAK.md.png" alt="c9rHAK.md.png" border="0"></a>
+<a href="https://z3.ax1x.com/2021/03/29/c9sBCD.png"><img src="https://z3.ax1x.com/2021/03/29/c9sBCD.png" alt="c9sBCD.png" border="0"></a>
+<a href="https://z3.ax1x.com/2021/03/29/c9sw4O.png"><img src="https://z3.ax1x.com/2021/03/29/c9sw4O.png" alt="c9sw4O.png" border="0"></a>
 
 ## 公众号
 ![公众号](https://z3.ax1x.com/2021/03/29/c9sEcj.jpg)
