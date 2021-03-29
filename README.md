@@ -48,8 +48,8 @@ go get -u -v
 PS: 注意实现要先搭建MySQL、Redis，MySQL要初始化 go-shop-b2c.sql
 
 建议使用 Docker 安装，教程如下
-*[Docker 安装 MySQL](https://www.runoob.com/docker/docker-install-mysql.html)
-*[Docker 安装 Redis](https://www.runoob.com/docker/docker-install-redis.html)
+* [Docker 安装 MySQL](https://www.runoob.com/docker/docker-install-mysql.html)
+* [Docker 安装 Redis](https://www.runoob.com/docker/docker-install-redis.html)
 ## 效果图
 ### 移动web端
 <a href="https://z3.ax1x.com/2021/03/29/c9wyGj.png" style="display:inline-blcok;"><img wdith="350" height="350" src="https://z3.ax1x.com/2021/03/29/c9wyGj.png" alt="c9wyGj.png" border="0"></a>
