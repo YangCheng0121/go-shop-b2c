@@ -5,6 +5,11 @@
 
 * [Beego 文档](https://beego.me/)
 * [Vue 文档](https://cn.vuejs.org/index.html)
+
+## 演示项目地址
+* [移动Web端](http://106.54.82.67/go-shop-web/?#/)
+* [管理中心](http://106.54.82.67/go-shop-admin/#/user/login)
+
 ## 目录结构
 * common
   公共代码函数  
