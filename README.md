@@ -50,6 +50,56 @@ PS: 注意实现要先搭建MySQL、Redis，MySQL要初始化 go-shop-b2c.sql
 建议使用 Docker 安装，教程如下
 * [Docker 安装 MySQL](https://www.runoob.com/docker/docker-install-mysql.html)
 * [Docker 安装 Redis](https://www.runoob.com/docker/docker-install-redis.html)
+
+## 功能模块
+```
+- 商品管理
+  - 商品管理
+  - 库存管理
+  - 商品分类
+  - 商品标签
+  - 商品参数
+  - 商品属性
+  - 规格管理
+  - 品牌管理
+  - 到货通知
+
+- 订单管理
+  - 订单管理
+  - 订单支付
+  - 订单退款
+  - 订单发货
+  - 订单退货
+  - 发货点管理
+  
+- 营销管理
+  - 促销管理
+  - 优惠券管理
+
+- 会员管理
+  - 会员等级
+  - 积分管理
+  - 预存款
+  - 评论管理
+  - 咨询管理
+  - 消息配置
+
+- 内容管理
+  - 广告管理
+
+- 系统设置
+  - 系统设置
+  - 地区管理
+  - 支付方式
+  - 配送方式
+  - 物流公司
+  - 支付插件
+  - 存储插件
+  - 登录插件
+  - 管理员
+  - 角色管理
+```
+
 ## 效果图
 ### 移动web端
 <a href="https://z3.ax1x.com/2021/03/29/c9wyGj.png" style="display:inline-blcok;"><img wdith="350" height="350" src="https://z3.ax1x.com/2021/03/29/c9wyGj.png" alt="c9wyGj.png" border="0"></a>
