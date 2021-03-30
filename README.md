@@ -45,7 +45,7 @@ go get -u -v
 ```
 然后运行即可
 
-PS: 注意实现要先搭建MySQL、Redis，MySQL要初始化 go-shop-b2c.sql
+PS: **注意实现要先搭建 MySQL、Redis，MySQL要初始化 go-shop-b2c.sql**
 
 建议使用 Docker 安装，教程如下
 * [Docker 安装 MySQL](https://www.runoob.com/docker/docker-install-mysql.html)
