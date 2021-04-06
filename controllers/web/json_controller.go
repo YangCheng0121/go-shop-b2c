@@ -37,7 +37,7 @@ func (c *JsonController) ServerError(err error) {
 }
 
 /**
- * 设置登录管理员信息
+ * 设置登录登录用户session信息
  */
 func (c *JsonController) SetSessionUser(member models.Member) {
 	if member.Id <= 0 {
