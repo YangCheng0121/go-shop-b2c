@@ -11,9 +11,9 @@
 * [管理中心](http://106.54.82.67/go-shop-admin/#/user/login)
 
 ## 启动项目
-下载到 $GOPATH 目录
+下载到 $GOPATH/src 目录
 ```
-cd $GOPATH
+cd $GOPATH/src
 git clone https://github.com/CleverBamboo/go-shop-b2c.git
 ```
 
