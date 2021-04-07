@@ -10,6 +10,19 @@
 * [移动Web端](http://106.54.82.67/go-shop-web/?#/)
 * [管理中心](http://106.54.82.67/go-shop-admin/#/user/login)
 
+## 启动项目
+下载到 $GOPATH 目录
+```
+cd $GOPATH
+git clone https://github.com/CleverBamboo/go-shop-b2c.git
+```
+
+然后
+```
+go mod tidy
+```
+即会自动对应的包，点击运行
+
 ## 目录结构
 * common
   公共代码函数  
