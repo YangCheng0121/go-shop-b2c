@@ -8,7 +8,9 @@
 
 ## 演示项目地址
 * [移动Web端](http://106.54.82.67/go-shop-web/?#/)
+* [移动Web端源代码](https://github.com/CleverBamboo/go-shop-b2c-web)
 * [管理中心](http://106.54.82.67/go-shop-admin/#/user/login)
+* [管理中心源代码](https://github.com/CleverBamboo/go-shop-b2c-admin)
 
 ## 启动项目
 下载到 $GOPATH/src 目录
